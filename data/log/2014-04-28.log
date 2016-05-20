@@ -1,0 +1,4 @@
+2014-04-28 16:51:07 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbClientLogInfo`  WHERE date_format(from_unixtime(AppendTime), '%Y-%m-%d') = '2013-06-09'<br>
+						<b>错误详情</b>: Unknown column 'AppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>

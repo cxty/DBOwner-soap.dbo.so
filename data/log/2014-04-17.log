@@ -1,0 +1,236 @@
+2014-04-17 11:13:36 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbSysLogInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'uAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:13:55 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbSysLogInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:13:56 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbSysLogInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:13:57 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbSysLogInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:13:57 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbSysLogInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:13:57 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbSysLogInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:13:57 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbSysLogInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:14:46 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbSysLogInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:15:27 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT SysLogID,
+					slActType,
+					slActParameter,
+					slReCallValue,
+					slAppendTime				
+					 FROM `tbSysLogInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:16:52 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT SysLogID,
+					slActType,
+					slActParameter,
+					slReCallValue,
+					slAppendTime				
+					 FROM `tbSysLogInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:30:17 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:31:01 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:31:47 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:31:48 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:31:49 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:31:49 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:31:50 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:31:51 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:42:47 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:42:49 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 11:42:52 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:42:56 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:42:56 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 11:42:56 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 12:42:07 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 12:44:10 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT URLID,
+				uCode,
+					URLStr,
+					uAppendTime,
+					uUpdateTime,
+					uCount,
+					uState
+				 FROM `tbURLInfo`  LIMIT 0,<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 8<br>
+						<b>错误代码</b>:1064<br>
+2014-04-17 14:40:20 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 14:41:34 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 14:42:46 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 14:43:56 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 14:45:09 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbClientLogInfo`  WHERE date_format(from_unixtime(aoAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'aoAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-04-17 14:46:48 | 192.168.0.1 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(cAppendTime), '%Y-%m-%d') = '2014-04-09'<br>
+						<b>错误详情</b>: Unknown column 'cAppendTime' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>

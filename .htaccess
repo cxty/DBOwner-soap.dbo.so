@@ -1,0 +1,26 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+#app
+#RewriteCond %{HTTP_HOST} ^app(\d+)\.dbowner\.com$ [NC]
+#RewriteRule ^(.+) http://devtest.dbowner.com/$1 [C]
+#RewriteRule ^app(\d+)\.dbowner\.com http://devtest.dbowner.com/index.php/api/appinfo-$1.html [R,L]
+#RewriteRule ^app(\d+).dbowner.com/recall/$ /api/recall-$1.html
+
+
+RewriteCond %{HTTP_HOST} ^app(\d+)\.dev\.dbowner\.com$     [NC]
+RewriteRule ^([0-9_a-z]+)(\.html)*$ /api/$1-%1.html [L]
+
+RewriteBase /
+
+RewriteRule ^account.*$ index.php/account/$1 [NC]
+RewriteRule ^file.*$ index.php/file/$1 [NC]
+RewriteRule ^soap.*$ index.php/soap/$1 [NC]
+RewriteRule ^workspace.*$ index.php/workspace/$1 [NC]
+RewriteRule ^api.*$ index.php/api/$1 [NC]
+RewriteRule ^app.*$ index.php/app/$1 [NC]
+RewriteRule ^js.*$ index.php/js/$1 [NC]
+
+#资源gzip压缩,需要开启apache gzip功能
+#RewriteRule (.*.css$|.*.js$|.*.jpg$|.*.gif$|.*.png$) gzip.php?$1 [L]
+</IfModule>

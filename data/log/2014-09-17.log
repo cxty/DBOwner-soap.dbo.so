@@ -1,0 +1,23 @@
+2014-09-17 10:44:54 | 218.104.232.181 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE URLStr like '%%' or dtaName like '%%'<br>
+						<b>错误详情</b>: Unknown column 'dtaName' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-09-17 10:45:50 | 218.104.232.181 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE URLStr like '%%' or dtaName like '%%'<br>
+						<b>错误详情</b>: Unknown column 'dtaName' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-09-17 10:45:56 | 218.104.232.181 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE URLStr like '%%' or dtaName like '%%'<br>
+						<b>错误详情</b>: Unknown column 'dtaName' in 'where clause'<br>
+						<b>错误代码</b>:1054<br>
+2014-09-17 15:21:25 | 192.168.0.252 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT SysLogID,
+					slActType,
+					slActParameter,
+					//slReCallValue,
+					slAppendTime				
+					 FROM `tbSysLogInfo`  ORDER BY slAppendTime desc LIMIT 10,10<br>
+						<b>错误详情</b>: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '//slReCallValue,
+					slAppendTime				
+					 FROM `tbSysLogInfo`  ORDER BY slApp' at line 4<br>
+						<b>错误代码</b>:1064<br>

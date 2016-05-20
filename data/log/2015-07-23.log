@@ -1,0 +1,124 @@
+2015-07-23 01:01:53 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 01'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 01:46:09 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 01'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 02:02:25 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 02'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 02:36:41 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 02'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 03:01:57 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 03'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 03:26:19 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 03'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 04:01:23 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 04'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 04:03:02 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 05'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 06:01:23 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 06'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 07:03:09 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 07'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 07:05:58 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 07'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 08:01:55 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 08'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 08:04:32 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 09'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 10:02:38 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 10'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 10:07:38 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 11'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 12:01:55 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 12'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 12:05:17 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 13'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 14:02:18 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 14'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 14:06:07 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 15'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 16:02:16 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 16'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 16:05:12 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 17'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 16:12:48 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 18'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 19:02:06 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 19'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 19:31:07 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 19'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 20:01:45 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 20'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 20:03:25 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 20'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 20:05:43 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 21'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 20:20:59 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 20'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 21:00:55 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 21'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 21:03:29 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-23 22'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
+2015-07-23 23:16:21 | 192.168.0.191 | /index.php/soap/ |	<b>出错</b>: MySQL Query Error<br>
+						<b>SQL</b>: SELECT count(*) FROM `tbURLInfo`  WHERE date_format(from_unixtime(uAppendTime), '%Y-%m-%d %H') = '2015-07-24 01'<br>
+						<b>错误详情</b>: Table 'tburlinfo' is marked as crashed and should be repaired<br>
+						<b>错误代码</b>:1194<br>
